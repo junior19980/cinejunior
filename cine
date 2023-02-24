@@ -1,8 +1,5 @@
-#EXTM3U
+#EXTM3U 
 
-#EXTINF:-1,BlackAdam
-https://delivery184.akamai-cdn-content.com/hls2/01/09849/ivtwd0wv6mm4_n/index-v1-a1.m3u8?t=t_8NcLt6Op__DrMXwKdg98ipMCwr9ERLUin1JG_Jr9A&s=1669932795&e=10800&f=49249183&srv=dznpjlakogveisqexhmi&client=170.83.243.132
-#EXTINF:-1,Medieval(2022)
-https://delivery424.akamai-cdn-content.com/hls2/01/09401/8cz7eodpgkmr_n/index-v1-a1.m3u8?t=z2ENWzdbX0EMRs0_Y9KQCh_GeyVINuwe-NjhRocI3Bc&s=1669933665&e=10800&f=47009318&srv=sto199&client=170.83.243.132
-#EXTINF:-1
-https://delivery384.akamai-cdn-content.com/hls2/01/09099/praysc2ok0fw_n/index-v1-a1.m3u8?t=850GwPoFG20tfmGC8oHzh1zjtxjyC-dVeuTZIuTcXU0&s=1669933870&e=10800&f=45496608&srv=sto055&client=170.83.243.132
+
+#EXTINF:-1,The System
+http://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream/57b4dc126338448314449d0c/publish/media_2000.m3u8?
