@@ -1,5 +1,6 @@
+
 #EXTM3U 
-
-
-#EXTINF:-1,The System
-http://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream/57b4dc126338448314449d0c/publish/media_2000.m3u8?
+#EXTINFO: -1,HBO
+https://live.embedflix.net/p2p/hbofamily/chunks.m3u8
+#EXTINFO:-1,SNT
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
